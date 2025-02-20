@@ -11,7 +11,6 @@ public class GameManager : MonoBehaviour
     private void Awake()
     {
         Time.timeScale = 1f;
-        //PlayerPrefs.DeleteAll();
         Instance = this;
 
         player = FindObjectOfType<PlayerController>();
