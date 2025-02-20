@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/FlappyPlane.unity
+    guid: 62063218389a6c8449db64f5c93311aa
+  - enabled: 1
+    path: Assets/Scenes/BombDodge.unity
+    guid: 78981ec9700b1414bbccfa418d8a70ff
+  - enabled: 1
+    path: Assets/Scenes/BreakOut.unity
+    guid: 6c582ca27629d9b4cbf37faecfde5719
+  - enabled: 1
+    path: Assets/Scenes/TopDown.unity
+    guid: a5d5bcac23fc83947910b596ad6adc0d
+  m_configObjects: {}
