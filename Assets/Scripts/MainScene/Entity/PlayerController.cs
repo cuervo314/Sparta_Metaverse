@@ -62,10 +62,10 @@ public class PlayerController : BaseController
             SceneManager.LoadScene("BreakOut");
         }
 
-        //if (collision.gameObject.CompareTag("FlappyPlane"))
-        //{
-        //    SceneManager.LoadScene("FlappyPlane");
-        //}
+        if (collision.gameObject.CompareTag("TopDown"))
+        {
+            SceneManager.LoadScene("TopDown");
+        }
     }
 
     public void OnCollisionExit2D(Collision2D collision)

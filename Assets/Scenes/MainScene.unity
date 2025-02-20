@@ -1586,7 +1586,7 @@ GameObject:
   - component: {fileID: 662734183}
   - component: {fileID: 662734182}
   m_Layer: 5
-  m_Name: FlappyPlaneScore
+  m_Name: TopDownWave
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1631,7 +1631,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Bestscore
+  m_text: Bestwave
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2790,6 +2790,7 @@ MonoBehaviour:
   bestScore1Text: {fileID: 1108813794}
   bestScore2Text: {fileID: 41665112}
   bestScore3Text: {fileID: 1948778009}
+  bestScore4Text: {fileID: 1731611478}
   startButton: {fileID: 0}
   exitButton: {fileID: 0}
   explainText: {fileID: 0}
@@ -4662,7 +4663,7 @@ GameObject:
   - component: {fileID: 1731611479}
   - component: {fileID: 1731611478}
   m_Layer: 5
-  m_Name: FlappyPlaneScoreText
+  m_Name: TopDownWaveText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -15,6 +15,7 @@ TagManager:
   - FireBall
   - Enemy
   - Treasure
+  - GameOverUI
   layers:
   - Default
   - TransparentFX
